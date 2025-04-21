@@ -4,4 +4,3 @@
 *.png binary
 *.webp binary
 *.woff binary
-*.json filter=lfs diff=lfs merge=lfs -text
